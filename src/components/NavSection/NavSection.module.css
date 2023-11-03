@@ -1,0 +1,16 @@
+.nav_main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 52px;
+}
+
+.nav_main ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+
+.nav_main ul li{
+    cursor: pointer;
+}
